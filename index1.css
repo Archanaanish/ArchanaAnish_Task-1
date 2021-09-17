@@ -60,8 +60,8 @@ span{
 
 .details{
     float: left;
-    margin:5px;
-    padding-top:30px;
+   
+    padding-top:70px;
     width:400px;
     height:540px;
     margin-left: 45px;
@@ -191,8 +191,8 @@ button{
 }
 
  .chart{
-    padding-top: 40px;
-    padding-bottom: 70px;
+    padding-top: 20px;
+   
 }
  
 
